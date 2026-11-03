@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/capturas/icono.png" alt="Icono de Gnome" width="120">
+  <img src="docs/capturas/icono.png" alt="Icono de Find the Gnome" width="120">
 </p>
 
-<h1 align="center">Gnome · Mapa de los gnomos de Wrocław</h1>
+<h1 align="center">Find the Gnome · Wrocław</h1>
 
 <p align="center">
   App iOS nativa para encontrar, fotografiar y coleccionar los famosos gnomos de bronce de Wrocław (Polonia).
@@ -19,7 +19,7 @@
 
 ## 📱 Qué es
 
-Wrocław esconde cientos de gnomos de bronce repartidos por sus calles. **Gnome** convierte buscarlos en un juego: un mapa con 60 gnomos reales del centro, una galería donde vas completando la colección con tus propias fotos y una sección de favoritos.
+Wrocław esconde cientos de gnomos de bronce repartidos por sus calles. **Find the Gnome** convierte buscarlos en un juego: un mapa con 60 gnomos reales del centro, una galería donde vas completando la colección con tus propias fotos y una sección de favoritos.
 
 Proyecto de la asignatura *Mobile Application for iOS* en la **Politechnika Wrocławska** (curso 2025/26), desarrollado por **Mario Alonso** y **Javier Sardiñas**.
 
@@ -62,7 +62,7 @@ docs/
 1. Necesitas un Mac con **Xcode 26** o superior.
 2. Clona el repositorio:
    ```bash
-   git clone https://github.com/Mariporg1/gnome_app.git
+   git clone https://github.com/Mariporg1/find-the-gnome-wroclaw.git
    ```
 3. Abre `gnome.xcodeproj`, elige un simulador de iPhone y pulsa **Run** (⌘R).
 
