@@ -21,7 +21,7 @@
 
 Wrocław esconde cientos de gnomos de bronce repartidos por sus calles. **Find the Gnome** convierte buscarlos en un juego: un mapa con 60 gnomos reales del centro, una galería donde vas completando la colección con tus propias fotos y una sección de favoritos.
 
-Proyecto de la asignatura *Mobile Application for iOS* en la **Politechnika Wrocławska** (curso 2025/26), desarrollado por **Mario Alonso** y **Javier Sardiñas**.
+Proyecto de la asignatura *Mobile Application for iOS* en la **Politechnika Wrocławska** (curso 2025/26), creado por sus dos cofundadores, **Mario Alonso** y **Javier Sardiñas**.
 
 ## 🖼️ Capturas
 
@@ -83,7 +83,7 @@ La app la probó un usuario en un iPhone 15 Pro con iOS 18.2. Salieron **9 incid
 - [Informe de pruebas de usuario](docs/informes/User_Testing_Report.pdf)
 - [Diseño en Figma](https://www.figma.com/design/x65lftHTtkMKpSIREw9zAw/Untitled?m=auto&t=cfZ6alW6OBNIz9Tk-1)
 
-## 👥 Autores
+## 👥 Cofundadores
 
-- **Mario Alonso López** · [@Mariporg1](https://github.com/Mariporg1)
-- **Javier Sardiñas** · [@Javisardignas](https://github.com/Javisardignas)
+- **Mario Alonso López** · [@Mariporg1](https://github.com/Mariporg1) · cofundador
+- **Javier Sardiñas** · [@Javisardignas](https://github.com/Javisardignas) · cofundador
